@@ -1,0 +1,3 @@
+TITLE ( ( "systematic"  OR  "review"  OR  "study"  OR  "survey"  OR  "comparison"  OR  "mapping"  OR  "literature" )  AND  ( "variabilit*"  OR  "product* famil*"  OR  "process* famil*"  OR  "product* line*"  OR  "process* line*" ) )  AND  ( LIMIT-TO ( SUBJAREA ,  "COMP" ) )  
+
+1001 Results

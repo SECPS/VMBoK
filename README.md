@@ -32,13 +32,11 @@ Based on the scope of the study, to create a Body of Knowledge for Systematic Re
 In Phase 1, we performed the literature search among the digital libraries of ACM Digital, IEEE Xplore, Scopus, and Web of Science. We defined several optimized search strings for the four digital libraries Scopus, IEEE Xplore, Web of Science, and ACM Digital, which we used to conduct a manual search. 
 The original search string and the optimized search strings can be found here:
 
-[Google Scholar](/protocol/searchStrings/googlescholar.txt)
-
 [Scopus](/protocol/searchStrings/scopus.txt)
 
 [IEEE Xplore](/protocol/searchStrings/ieee.txt)
 
-[Web of Science](/protocol/searchStrings/webscience.txt)
+[Web of Science](/protocol/searchStrings/wok.txt)
 
 [ACM Digital](/protocol/searchStrings/acm.txt)
 

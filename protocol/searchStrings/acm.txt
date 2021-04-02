@@ -1,0 +1,8 @@
+Title:("systematic"  OR  "review"  OR  "study"  OR  "survey"  OR  "comparison"  OR  "mapping"  OR  "literature") AND Title:("variabilit*"  OR  "product* famil*"  OR  "process* famil*"  OR  "product* line*"  OR  "process* line*")
+
+[[Publication Title: "systematic"] OR [Publication Title: "review"] OR [Publication Title: "study"] OR [Publication Title: "survey"] OR [Publication Title: "comparison"] OR [Publication Title: "mapping"] OR [Publication Title: "literature"]] AND [[Publication Title: "variabilit*"] OR [Publication Title: "product* famil*"] OR [Publication Title: "process* famil*"] OR [Publication Title: "product* line*"] OR [Publication Title: "process* line*"]]
+
+"query": { Title:("systematic"  OR  "review"  OR  "study"  OR  "survey"  OR  "comparison"  OR  "mapping"  OR  "literature") AND Title:("variabilit*"  OR  "product* famil*"  OR  "process* famil*"  OR  "product* line*"  OR  "process* line*") }
+"filter": { ACM Content: DL, NOT VirtualContent: true }
+
+89 Results (90 exported)
