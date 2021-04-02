@@ -2,7 +2,10 @@
 
 A Variability Modeling Body of Knowledge of Systematic Literature Reviews.
 
-## Systematic Literature Study Protocol
+## Systematic Mapping Study Protocol
+
+![Process of the Systematic Mapping Study](images/sms-process.png)
+
 ### Phase 0: 
 
 We conducted a pilot search (using Google Scholar and the digital libraries of ACM Digital, IEEE Xplore, Scopus, SpringerLink, and Web of Science) to develop a suitable search process and scope. Based on the pilot study results, we decided to investigate the digital libraries of ACM Digital, IEEE Xplore, Scopus, and Web of Science in our systematic tertiary mapping study. Further, we defined the following inclusion/exclusion criteria:
