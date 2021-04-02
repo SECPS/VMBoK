@@ -16,7 +16,7 @@ We conducted a pilot search (using Google Scholar and the digital libraries of A
 -   **Full/Short Paper:** The paper is a short or full paper. We do not include (extended) abstracts or posters.
 -   **Peer-Reviewed:** The paper is peer-reviewed or of verifiable quality (e.g., well-known technical reports).
 -   **Secondary Literature Study:** The paper presents a systematic mapping/survey/literature study. We do not include literature studies that do not follow a sufficiently reproducible process.
--   **Recent or Comparative Primary Study** the paper is a primary study published in 2020/2021 or a primary study comparing different variability modeling approaches
+-   **Recent or Comparative Primary Study:** the paper is a primary study published in 2020/2021 or a primary study comparing different variability modeling approaches
 
 **Exclusion criteria:**
 -   **Theoretical approach:** The paper presents only a theoretical approach without practical use or model
