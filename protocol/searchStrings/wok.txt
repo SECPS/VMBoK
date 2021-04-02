@@ -1,4 +1,2 @@
 (TI = ( "systematic" OR "review" OR "study" OR "survey" OR "comparison" OR "mapping" OR "literature" )  AND  TI  =  ( "variabilit*" OR "product* famil*" OR "process* famil*" OR "product* line*" OR "process* line*" ) )  AND  SU  =  (Computer Science) 
 Indexes=SCI-EXPANDED, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, CCR-EXPANDED, IC Timespan=All years
-
-496 Results

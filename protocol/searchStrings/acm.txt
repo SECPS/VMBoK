@@ -4,5 +4,3 @@ Title:("systematic"  OR  "review"  OR  "study"  OR  "survey"  OR  "comparison"  
 
 "query": { Title:("systematic"  OR  "review"  OR  "study"  OR  "survey"  OR  "comparison"  OR  "mapping"  OR  "literature") AND Title:("variabilit*"  OR  "product* famil*"  OR  "process* famil*"  OR  "product* line*"  OR  "process* line*") }
 "filter": { ACM Content: DL, NOT VirtualContent: true }
-
-89 Results (90 exported)
