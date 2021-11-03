@@ -2,6 +2,20 @@
 
 A Variability Modeling Body of Knowledge of Systematic Literature Reviews.
 
+[![DOI](https://img.shields.io/badge/DOI-10.1109/SEAA53835.2021.00012-888888.svg)](https://doi.org/10.1109/SEAA53835.2021.00012)
+
+```
+@INPROCEEDINGS{FeichtingerVMBoK2021,  
+ author={Feichtinger, Kevin and Meixner, Kristof and Rabiser, Rick and Biffl, Stefan},  
+ booktitle={2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)},   
+ title={A Systematic Study as Foundation for a Variability Modeling Body of Knowledge},   
+ year={2021},  
+ volume={},  
+ number={},  
+ pages={25-28},  
+ doi={10.1109/SEAA53835.2021.00012}}
+```
+
 ## Systematic Mapping Study Protocol
 
 ![Process of the Systematic Mapping Study](images/sms-process.png)
