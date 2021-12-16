@@ -63,6 +63,12 @@ We investigated the resulting set of papers and removed duplicates and papers ir
 
 For the selection process (independent voting of participating researchers + rationale) of the remaining papers, we used a Google Spreadsheet. The voting was performed based on ***simple majority vote***. If the simple majority of participating researchers resulted in an include, we included the paper in the BoK. Similarly, papers receiving an exclude vote were not included in the BoK. If the result was inconclusive, the paper was marked as uncertain. We discussed the uncertain papers in a dedicated meeting. The resulting Voting Table of all participating researchers can be found here:
 
-[Complete Voting Table](/protocol/votingtable.pdf)
+[Complete Voting Table](/protocol/votingtable-feb-2021-original.pdf)
  
 We reduced a potential bias towards particular votes by separating the individual voting sheets. Therefore, we copied the initial spreadsheet for each participating researcher, such that each researcher voted on their respective voting table. After finishing the voting, the results were combined into the primary voting table. A colleague (not affiliated with this work) maintained each spreadsheet so that the researchers could not access the others' voting tables.
+
+### Phase 3:
+
+We updated the VMBoK by paper published 2021, which are in scope of the VMBoK, by redoing Phase 1 and 2 for only 2021. The voting table then was repeated by 3 PhD students (two of them were part of the original voting). The results of the voting can be found here:
+
+[Complete Voting Table](/protocol/votingtable-dec-2021-papers.pdf)
