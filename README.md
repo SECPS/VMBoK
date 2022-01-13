@@ -69,6 +69,6 @@ We reduced a potential bias towards particular votes by separating the individua
 
 ### Phase 3:
 
-We updated the VMBoK by paper published 2021, which are in scope of the VMBoK, by redoing Phase 1 and 2 for only 2021. The voting table then was repeated by 3 PhD students (two of them were part of the original voting). The results of the voting can be found here:
+We updated the VMBoK by paper published 2021, which are in scope of the VMBoK, by redoing Phase 1 and 2 for only 2021. We also performed snowballing for selected SLRs to find may overlooked papers in the same manner. The voting table was repeated by 3 PhD students (two of them were part of the original voting). The results of the voting can be found here:
 
-[Complete Voting Table](/protocol/votingtable-dec-2021-papers.pdf)
+[Complete Voting Table](/protocol/votingtable-jan-2022-papers.pdf)
