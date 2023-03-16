@@ -2,7 +2,7 @@
 
 A Variability Modeling Body of Knowledge of Systematic Literature Reviews.
 
-[![DOI](https://img.shields.io/badge/DOI-10.1109/SEAA53835.2021.00012-888888.svg)](https://doi.org/10.1109/SEAA53835.2021.00012)
+[![DOI](https://img.shields.io/badge/DOI-10.1109/SEAA53835.2021.00012-blue)](https://doi.org/10.1109/SEAA53835.2021.00012)
 
 ```
 @INPROCEEDINGS{FeichtingerVMBoK2021,  
